@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://gaia.manizales.unal.edu.co/lengua_senas/';
+$config['base_url']	= 'https://gaia.manizales.unal.edu.co/lengua_senas/';
 
 /*
 |--------------------------------------------------------------------------
