@@ -32,7 +32,9 @@
     <script src="<?php echo base_url()?>style/inicio/js/script.js"></script>
 
     <?php
-    require_once("../lsc/system/functions/functions.php");
+    // require_once("../lsc/system/functions/functions.php");
+    require_once("./system/functions/functions.php");
+
 
 
     ?>
